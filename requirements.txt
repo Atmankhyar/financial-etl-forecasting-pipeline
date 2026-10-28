@@ -1,0 +1,17 @@
+# Data retrieval
+yfinance
+
+# Data manipulation
+pandas
+
+# Technical Analysis
+ta
+
+# Data Warehouse
+snowflake-connector-python[pandas]
+
+# ETL Orchestration
+apache-airflow
+
+# Environment variables
+python-dotenv 
