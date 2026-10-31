@@ -1,0 +1,13 @@
+multitasking==0.0.11
+yfinance
+pandas
+ta
+snowflake-connector-python[pandas]
+python-dotenv
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+prophet
+pytest
+pytest-cov
