@@ -18,7 +18,7 @@ This pipeline handles the full data lifecycle:
 
 The complete system architecture shows the data flow from source to visualization, with Snowflake as the central data repository connecting both ML models and Power BI dashboards.
 
-![Airflow Pipeline Management](images/airflow-ui.png)
+![Airflow Pipeline Management](images/Airflow_ui.png)
 
 The Airflow orchestration manages two main workflows: the daily ETL process (`financial_etl_dag`) and weekly forecasting pipeline (`financial_forecasting_dag`). This separation allows for efficient resource utilization while maintaining clear data dependencies.
 
